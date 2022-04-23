@@ -15,6 +15,7 @@ public class Main1 {
         
         System.out.println(matrix1.getRows());
         System.out.println(matrix1.getRows());
+        System.out.println(matrix1.getRows());
 
         System.out.println(matrix1.getValueAt(1,2));
         matrix1.setValueAt(2, 2, 5);
